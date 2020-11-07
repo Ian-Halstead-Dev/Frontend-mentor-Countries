@@ -15,7 +15,6 @@ const routes = (
 	<BrowserRouter>
 		<Switch>
 			<Route exact path="/" component={index} />
-			<Route exact path="/test" component={test} />
 		</Switch>
 	</BrowserRouter>
 );
